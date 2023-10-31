@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayu Bachtiar. Everyone calls me 'Woelan'</h1>
-<h3 align="center">A passionate learner from Indonesia, Central Java, Kampung Jowo Tengah
-Welcome to my GitHub, peace place I use the most for my any opus</h3>
+<h3 align="center">A passionate learner from Indonesia, Central Java, Kampung Jowo Tengah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuwulandarirosib&label=Profile%20views&color=0e75b6&style=flat" alt="ayuwulandarirosib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayuwulandarirosib" alt="ayuwulandarirosib" /></a> </p>
+
+<h4 align="center">Welcome to my GitHub, peace place I use the most for my any opus</h4>
 
 - 🔭 I’m currently progressing [@shakeilogram storytelling](https://www.instagram.com/shakeilogram/)
 
