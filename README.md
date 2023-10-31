@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayu Bachtiar. Everyone calls me by Woelan</h1>
+<h1 align="center">Hi 👋, I'm Ayu Bachtiar. Everyone calls me 'Woelan'</h1>
 <h3 align="center">A passionate learner from Indonesia, Central Java, Kampung Jowo Tengah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuwulandarirosib&label=Profile%20views&color=0e75b6&style=flat" alt="ayuwulandarirosib" /> </p>
